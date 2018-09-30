@@ -1,0 +1,6 @@
+[package]
+name = "calcula_media_uninter"
+version = "0.1.0"
+authors = ["Michel Martinez <michelsm1990@gmail.com>"]
+
+[dependencies]
