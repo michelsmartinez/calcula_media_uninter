@@ -31,4 +31,4 @@ as aulas podem ser vistas no computador, smartphone e tablet, recomendaria que d
 
 Se pensarem em fazer matricula podem utilizar meu RU para ganharem isenção na taxa de inscrição (também ganham um curso online de inglês)
 
-#RU para desconto: 2522309
+# RU para desconto: 2522309
